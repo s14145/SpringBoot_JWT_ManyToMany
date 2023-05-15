@@ -22,6 +22,9 @@ The technologies used to build this application are:
 
 9. JWT (JSON Web Token)
 
+10. Splunk Cloud
+
+Splunk URI: https://prd-p-apnzm.splunkcloud.com
 
 H2 Database URI: http://localhost:6063/h2-console
 
